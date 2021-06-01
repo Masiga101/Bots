@@ -1,7 +1,6 @@
 
 const express = require('express');
 const bodyParser = require('body-parser')
-var request = require('request');
 const fetch = require('node-fetch');
 const Discord = require('discord.js');
 const {Telegraf} = require('telegraf');
