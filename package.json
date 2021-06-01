@@ -1,0 +1,21 @@
+{
+  "name": "Bot examples",
+  "version": "1.0.0",
+  "description": "Simple examples of discord and telegram bots, more like a practice actually",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2",
+    "telegraf": "^4.3.0"
+  }
+}
